@@ -6,7 +6,7 @@ setup(
     description="A library for visualizing neural network gradients",
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    author="Arcoson",
+    author="XCALEN",
     author_email="hylendust@gmail.com",
     url="https://github.com/Arcoson/gradientvis",
     packages=find_packages(),  # Automatically find packages
